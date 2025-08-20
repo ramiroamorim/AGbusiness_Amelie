@@ -1,0 +1,11 @@
+*.md
+.git/
+.github/
+attached_assets/
+public/images/
+README.md
+scripts/
+.vscode/
+.idea/
+*.log
+.DS_Store
