@@ -207,7 +207,7 @@ export default function QuizStep({
       )}
       {/* Text Blocks com tamanho otimizado para Chef Profile */}
       {step.textBlocks && step.name === 'chef_profile' && (
-        <div className="space-y-1 sm:space-y-2 text-[#555555]">
+        <div className="space-y-3 sm:space-y-3 text-[#555555]">
           {step.textBlocks.map((text, i) => (
             <p 
               key={i} 
