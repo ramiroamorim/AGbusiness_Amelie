@@ -8,6 +8,7 @@
 // Chef Images
 import chefProfile from './images/chef/chef-profile.png';
 import chefAmelie from './images/chef/chef-amelie.png';
+import chef from './images/chef/fav-amelie.jpeg';
 
 // Recipes Images
 import recipeBook from './images/recipes/recipe-book-new.png'; // Imagem do livro de receitas
